@@ -35,13 +35,13 @@ To jest przykładowy akapit tekstowy.
 Pojęcie
     Definicja
 
-Zewnętrzny odnośnik: <https://www.youtube.com/watch?v=4-4iIe2xxog>_
+Zewnętrzny odnośnik: <https://www.youtube.com/watch?v=4-4iIe2xxog>
 
 
 Obraz (z alternatywnym tekstem oraz podpisem)
 ==========================================
 
-.. figure:: /Assets/photo.png
+.. figure:: https://cdn.pixabay.com/photo/2015/04/23/22/00/new-year-background-736885_1280.jpg
 
    :alt: Przykładowy obraz
    :figclass: align-center
